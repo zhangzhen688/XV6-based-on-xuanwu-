@@ -1,3 +1,23 @@
+# Build artifacts
+kernel
+fs.img
+*.o
+*.d
+*.elf
+*.img
+
+# Editor and OS files
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+
+# Python cache
+__pycache__/
+
+# Misc
+.cache/
 *~
 _*
 *.o
